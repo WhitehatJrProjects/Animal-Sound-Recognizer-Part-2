@@ -1,0 +1,77 @@
+.intro {
+  background-color: grey;
+  margin-top: -20;
+  text-align: center;
+  padding: 10;
+}
+body {
+  background-color: rgb(224, 208, 208);
+}
+.copy_right_footer {
+  position: fixed;
+  font-family: "Nunito", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: rgb(212, 208, 208);
+  bottom: 0;
+  width: 100%;
+  font-size: 30;
+  background-color: rgb(255, 255, 255);
+  line-height: 3;
+  text-align: center;
+}
+
+#heading {
+  font-family: "Nunito", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+#note {
+  font-family: "Nunito", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+#start_button {
+  font-family: "Nunito", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: rgb(255, 255, 255);
+  border-radius: 25px;
+  width: 100px;
+  height: 35px;
+  margin: auto;
+  display: flex;
+  display: grid;
+  margin-top: 25px;
+  text-align: center;
+  padding-bottom: 5;
+  background-color: rgb(53, 201, 53);
+}
+
+#icanhear{
+  font-family: "Nunito", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+#animal{
+  font-family: "Nunito", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+#animal_image {
+    font-family: "Nunito", sans-serif;
+  font-family: "Rubik", sans-serif;
+  color: rgb(255, 255, 255);
+  border-radius: 25px;
+  width: 285px;
+  height: 270px;
+  margin: auto;
+  display: flex;
+  display: grid;
+  margin-top: 25px;
+
+}
